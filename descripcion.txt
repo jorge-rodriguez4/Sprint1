@@ -1,0 +1,11 @@
+En la carpeta Documentos se encuentra la información del Sprint 1 Del C3G47 Grupo8
+Los documentos adjuntos son:
+Actas de Reunión
+Historias de usuario
+Planteamiento del problema
+Product BackLog
+Bourdown Chart
+Grupo conformado por:
+Edgar Fernando Gutiérrez Timoté
+Julian Mauricio Rendón Ramírez
+Jorge Alberto Rodríguez Waldo
